@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Vegout/static/css/main.2cce8147.chunk.css",
+    "main.js": "/Vegout/static/js/main.05e85834.chunk.js",
+    "main.js.map": "/Vegout/static/js/main.05e85834.chunk.js.map",
+    "runtime~main.js": "/Vegout/static/js/runtime~main.56829d04.js",
+    "runtime~main.js.map": "/Vegout/static/js/runtime~main.56829d04.js.map",
+    "static/js/2.b41502e9.chunk.js": "/Vegout/static/js/2.b41502e9.chunk.js",
+    "static/js/2.b41502e9.chunk.js.map": "/Vegout/static/js/2.b41502e9.chunk.js.map",
+    "index.html": "/Vegout/index.html",
+    "precache-manifest.43df4d1c84a0e29e265297cc85a24dfa.js": "/Vegout/precache-manifest.43df4d1c84a0e29e265297cc85a24dfa.js",
+    "service-worker.js": "/Vegout/service-worker.js",
+    "static/css/main.2cce8147.chunk.css.map": "/Vegout/static/css/main.2cce8147.chunk.css.map",
+    "static/media/logo.svg": "/Vegout/static/media/logo.5d5d9eef.svg"
+  }
+}
